@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-app-practice/static/css/main.781ec2e9.css",
-    "main.js": "/react-app-practice/static/js/main.2849505a.js",
+    "main.css": "/react-app-practice/static/css/main.88eb88ee.css",
+    "main.js": "/react-app-practice/static/js/main.71fe2b15.js",
     "static/media/christmastree01.png": "/react-app-practice/static/media/christmastree01.ce01a70b97c5758c0631.png",
     "static/media/tablesetting02.png": "/react-app-practice/static/media/tablesetting02.279b433c5dbed068f9be.png",
     "static/media/tablesetting03.png": "/react-app-practice/static/media/tablesetting03.def6add40813c14bdc8c.png",
@@ -21,11 +21,11 @@
     "static/media/tablesetting01.png": "/react-app-practice/static/media/tablesetting01.c901b2abde48be073a3c.png",
     "static/media/ceramics02.png": "/react-app-practice/static/media/ceramics02.c481e1831842c786a394.png",
     "index.html": "/react-app-practice/index.html",
-    "main.781ec2e9.css.map": "/react-app-practice/static/css/main.781ec2e9.css.map",
-    "main.2849505a.js.map": "/react-app-practice/static/js/main.2849505a.js.map"
+    "main.88eb88ee.css.map": "/react-app-practice/static/css/main.88eb88ee.css.map",
+    "main.71fe2b15.js.map": "/react-app-practice/static/js/main.71fe2b15.js.map"
   },
   "entrypoints": [
-    "static/css/main.781ec2e9.css",
-    "static/js/main.2849505a.js"
+    "static/css/main.88eb88ee.css",
+    "static/js/main.71fe2b15.js"
   ]
 }
